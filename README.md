@@ -13,8 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi, I'm Yookyung👋</h2>
-<div align="center"><strong>I am a back-end engineer.</strong></div>
+<h1 align="center">Hello there, I'm Simone👋🏻</h2>
+
+- 💻 <strong>I am a back-end developer.</strong>
+- ✨ <strong>I'm very optimistic with every challenge that comes along the way.</strong>
+- 📖 <strong>I started studying programming to create what I need(It's a long story).</strong>
+- ⚡ <strong>Fun fact: I walked more than 2,500km including the Camino de Santiago.
+
+
+
 <br />
 <h3 align="left">🛠️ Languages and Tools:</h4>
 <div align="center">
@@ -29,7 +36,7 @@ Here are some ideas to get you started:
 </div>
 <h3 align="left">📫 How to reach me:</h4>
 <div align="center">
-  <p>eachkwon@naver.com</p>
+  <p>simonek.dev@gmail.com</p>
 </div>
 <h3 align="left">⭐ Github stats:</h4>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=eachkwon&show_icons=true&count_private=true&hide_border=true" align="center"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eachkwon&hide_border=true&layout=compact" align="center" /></div>
