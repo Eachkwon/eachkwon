@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 - 💻 <strong>I am a back-end developer.</strong>
 - ✨ <strong>I'm very optimistic with every challenge that comes along the way.</strong>
-- 📖 <strong>I started studying programming to create what I need(It's a long story).</strong>
-- ⚡ <strong>Fun fact: I walked more than 2,500km including the Camino de Santiago.
+- 📖 <strong>I attended the Back-end Web Development Bootcamp from June 2022 to September 2022.</strong>
+- 🔥 <strong>Every day, I solve questions from Programmers to develop my ability to solve complex code problem.</strong>
 
 
 
