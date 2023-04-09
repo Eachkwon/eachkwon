@@ -39,4 +39,5 @@ Here are some ideas to get you started:
   <p>simonek.dev@gmail.com</p>
 </div>
 <h3 align="left">⭐ Github stats:</h4>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=eachkwon&show_icons=true&count_private=true&hide_border=true" align="center"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eachkwon&hide_border=true&layout=compact" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=eachkwon&show_icons=true&count_private=true&hide=stars&hide_border=true" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eachkwon&hide_border=true&layout=compact" align="center" /></div>
